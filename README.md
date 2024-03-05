@@ -5,6 +5,7 @@ The dashboard provides a comprehensive analysis of the auction proceedings throu
 Another segment of the dashboard focuses on individual franchises. Users can utilize a slicer tool to select a specific franchise for detailed analysis. Two additional slicers enable further filtering of players based on their skills and nationality. The dashboard includes three informative cards displaying the highest-paid player in the auction, the total number of players, and the average cost of players based on the applied filters. A list on the right side presents comprehensive player information based on the selected filters. Furthermore, a bar graph at the bottom depicts player names on the x-axis and their salaries on the y-axis, with a legend color-coding the graph based on player skills. This graph encompasses information about both auctioned and retained players. For instance, Royal Challengers Bangalore acquired 22 players with an average cost close to 4.02 crore rupees per player, with Harshal Patel emerging as their highest-paid acquisition at 10.75 crore rupees.
 
 
-[Dashboard](dashboard1.png)
-
-A snap from the dashboard that helps us analysing each of the franchise based on their performances in the IPL auction 2022
+[Dashboard - 1](Dashboard1.png)
+[Dashboard - 2](Dashboard2.png)
+[Dashboard - 3](Dashboard3.png)
+Snapshots from the dashboard that helps us analysing each of the franchise based on their performances in the IPL auction 2022
