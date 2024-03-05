@@ -8,4 +8,6 @@ Another segment of the dashboard focuses on individual franchises. Users can uti
 
 <img width="722" alt="Dashboard 1" src="https://github.com/YashCh31/PowerBI/assets/114362650/d7881595-e95c-41bf-8bbe-0f87178de7f7">
 <img width="712" alt="Dashboard 2" src="https://github.com/YashCh31/PowerBI/assets/114362650/2ea8d846-ce33-4b9e-85d8-ee7b802079df">
+
+
 Snapshots from the dashboard that helps us analysing each of the franchise based on their performances in the IPL auction 2022
